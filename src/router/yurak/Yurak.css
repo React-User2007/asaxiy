@@ -1,0 +1,54 @@
+.yurak__main {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f4f7fd;
+}
+
+.yurak__sevimli {
+    width: 80%;
+    height: 120px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.yurak__jujutsu {
+    width: 100px;
+    height: 100px;
+}
+
+.yurak__jujutsu img {
+    width: 100%;
+}
+
+.yurak_savatcha {
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+    display: block;
+    margin-top: 15px;
+    background-color: dodgerblue;
+    border: none;
+    color: #fff;
+}
+
+.yurak__price h2 {
+    margin-top: 20px;
+}
+
+.yurak__price p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.yurak_del {
+    width: 160px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: orange;
+    border: none;
+    color: #fff;
+}

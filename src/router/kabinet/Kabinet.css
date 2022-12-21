@@ -1,0 +1,109 @@
+.kabinet_main {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f4f7fd;
+}
+
+.kotta {
+    width: 90%;
+    height: 270px;
+    background: dodgerblue;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.kottaa {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.kotaa {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    padding-left: 100px;
+    padding-top: 20px;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.kotaa p {
+    margin-top: 10px;
+}
+
+.kotaa button {
+    width: 120px;
+    height: 30px;
+    background-color: dodgerblue;
+    border: 2px solid #fff;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.kabinaet__div {
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    background-color: #fff;
+    display: flex;
+    height: 500px;
+    padding: 50px;
+}
+
+.kabinet_desc {
+    width: 40%;
+    height: 100%;
+}
+
+.kabinet_title {
+    width: 60%;
+    height: 100%;
+}
+
+.box2 img {
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.kabinet_desc h1 {
+    color: #13306a;
+}
+
+.kabinet_desc p {
+    width: 400px;
+    margin-top: 10px;
+    line-height: 1.6;
+    margin-bottom: 5px;
+    color: grey;
+}
+
+.kabinet_desc input {
+    width: 75%;
+    height: 35px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    outline: none;
+    text-indent: 10px;
+    margin: auto;
+}
+
+.kabinet_desc button {
+    width: 100px;
+    display: block;
+    height: 35px;
+    border-radius: 6px;
+    color: #fff;
+    background-color: dodgerblue;
+    border: none;
+    margin-top: 40px;
+}

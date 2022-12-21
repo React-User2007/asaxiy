@@ -1,0 +1,89 @@
+.cart__main {
+    width: 100%;
+    background: #f4f7fd;
+    min-height: 120vh;
+}
+
+.cart__money {
+    width: 400px;
+    height: 280px;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 50px;
+    background: #fff;
+    padding: 30px;
+}
+
+.cart__money p {
+    line-height: 2;
+    color: grey;
+}
+
+.cart__money h1 {
+    color: #13306a;
+    margin-bottom: 20px;
+}
+
+.cart__money input {
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    outline: none;
+    text-indent: 10px;
+    margin: auto;
+}
+
+.cart__money button {
+    width: 100px;
+    height: 35px;
+    border-radius: 6px;
+    color: #fff;
+    background-color: dodgerblue;
+    border: none;
+    margin-top: 30px;
+}
+
+.cart__div {
+    width: 90%;
+    height: 270px;
+    background: dodgerblue;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.cart__url {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+.cart__link {
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
+    padding-left: 100px;
+    padding-top: 20px;
+    color: #fff;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.cart__link p {
+    margin-top: 10px;
+}
+
+.cart__link button {
+    width: 120px;
+    height: 30px;
+    background-color: dodgerblue;
+    border: 2px solid #fff;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: #fff;
+    margin-top: 10px;
+}

@@ -1,0 +1,134 @@
+.footer__main {
+    width: 100%;
+    background-color: #008DFF;
+    padding: 3% 5%;
+    margin-top: 50px;
+}
+
+.footer__top {
+    background-color: #fff;
+    height: 100px;
+    padding: 5% 5%;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.footer__one,
+.footer__two,
+.footer__three,
+.footer__four {
+    width: 30%;
+    display: flex;
+    gap: 20px;
+}
+
+.footer__title>p {
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.footer__title>span {
+    font-weight: 100;
+    margin-top: 5px;
+    opacity: .7;
+}
+
+.footer__sana {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15%;
+    margin-left: -14%;
+}
+
+.footer__malumot {
+    color: #fff;
+}
+
+.footer__malumot>h3 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.footer__Information>p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    transition: .3s;
+    font-weight: 400;
+}
+
+.footer__malumot>p:hover {
+    transform: translateX(20px);
+    cursor: pointer;
+}
+
+.footer__contact {
+    color: #fff;
+}
+
+.footer__contact>h3 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.footer__contact>p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    transition: .3s;
+    font-weight: 400;
+}
+
+.footer__contact>p:hover {
+    transform: translateX(20px);
+    cursor: pointer;
+}
+
+.footer__social {
+    color: #fff;
+}
+
+.footer__social>h3 {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+.footer__social>p {
+    font-size: 35px;
+}
+
+.footer__Payment {
+    width: 100%;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    padding: .3% 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__pay {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__pay>h2 {
+    color: #fff;
+    font-size: 20px;
+}
+
+.footer__style>img {
+    width: 50px;
+    height: 50px;
+    margin-left: 30px;
+}
+
+.footer__bottom>p {
+    text-align: center;
+    color: #fff;
+    padding: .1% 0;
+    margin-top: 20px;
+    font-size: 15px;
+}
